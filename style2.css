@@ -16,3 +16,13 @@ h1, h2 {
 body {
     background-color: DimGrey;
 }
+
+a {
+    border: 1px solid black;
+    text-decoration: none;
+    color:white;
+    background-color: black;
+    border-radius: 10px
+    width: 5px;
+    height: 5px;
+}
