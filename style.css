@@ -1,0 +1,60 @@
+body {
+    font-family: Snell Roundhand;
+}
+
+main img {
+    height: 1000px;
+    width: 1470px;
+    text-align:center;
+}
+
+header {
+    background-color: black;
+    color: white;
+    border: 5px solid black;
+}
+
+header img {
+    height: 140px;
+    width: 140px;
+}
+
+header a{
+    border: 2px dashed white;
+    border-radius: 10px;
+    margin: 3px;
+    padding: 5px;
+    text-decoration: none;
+    color: PapayaWhip;
+}
+
+footer {
+    Background-color: black;
+    color: white;
+}
+
+footer p {
+    background-color: white;
+    color: black;
+}
+
+main h1 {
+    text-align: center;
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+    border-radius: 30px;
+}
+
+footer h1 {
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 30px;
+}
+main h2{
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+    border-radius: 20px;
+    text-align: center;
+}
